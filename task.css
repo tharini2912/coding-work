@@ -1,0 +1,52 @@
+body {
+}
+.container1 {
+    min-width: 1300px;
+    height: 70px;
+     
+}
+.row1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+.logo {
+    width: 150px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.c1 {
+    width: 50%;
+    height: 100px;
+   
+}
+.c2 {
+    width: 50%;
+    height: 100px;
+    
+}
+ul {
+    list-style-type: none;
+}
+ul li {
+    display: inline-block;
+    margin-right: 40px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: rgb(170, 166, 166);
+
+}
+.menu {
+    display: flex;
+    width: 25px;
+    margin-left: 570px;
+    margin-top: -40px;  
+}
+hr {
+    border-top: 1px;
+}
+a {
+    text-decoration: none;
+}
+ul li:hover {
+    color: rgb(126, 126, 247);
+}
