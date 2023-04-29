@@ -1,0 +1,28 @@
+body {
+    background-color: aquamarine;
+}
+.container1 {
+    width: 1350px;
+    height: 100px;
+    background-color: blue;
+    top: 0;
+    left: 0;
+}
+.row1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+.col1 {
+    width: 50%;
+    height: 100px;
+    background-color: bisque;
+}
+.col2 {
+    width: 50%;
+    height: 100px;
+    background-color: yellow;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
